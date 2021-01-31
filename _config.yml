@@ -14,10 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Latin Josephus
-email: jamie@performantsoftware.com
+email: pollard.richard_matthew@uqam.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the basic Jekyll starter site, with Netlify CMS integrated and using
-  Netlify Identity for authentication.
+  This site will offer a transcription of the Latin versions of
+  Flavius Josephus' two largest works, the Jewish War and the Antiquities.
+  At UBC, in 2013, we began with the latter, based on a Carolingian era
+  (s. IXmed) copy: Bamberg Msc.Class.78 (Blatt, no. 113).
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -38,8 +41,8 @@ minima:
 # - about.html
 
 # social links
-twitter_username: performantsoft
-github_username:  performant-software
+twitter_username:
+github_username:
 rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
