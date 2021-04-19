@@ -5,7 +5,7 @@
 layout: page
 ---
 
-**Please note that this page is under construction.  To consult the completed edition in the meantime, please visit the old website: https://sites.google.com/site/latinjosephus/**
+**Please note that this page is under construction.  To consult the completed edition in the meantime, please visit the old website: [https://sites.google.com/site/latinjosephus/](https://sites.google.com/site/latinjosephus/)**
 
 <div xmlns="https://www.w3.org/1999/xhtml" class="sites-layout-name-one-column-hf sites-layout-vbox"><div class="sites-layout-tile sites-tile-name-header"><div dir="ltr"><div><i><font color="#783f04" size="3">Flavius Josephus</font></i></div>
 <div><br>
